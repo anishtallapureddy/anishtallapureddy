@@ -1,6 +1,6 @@
 ## Hey, I'm Anish 👋
 
-Product Manager at Microsoft · Azure API Management & AI Gateway
+Principal PM — Group Product Lead at Microsoft · Azure API Management & AI Gateway
 
 I build things at the intersection of AI infrastructure and developer platforms — governance layers, gateway proxies, tool catalogs, and the product thinking behind them.
 
