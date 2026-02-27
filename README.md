@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Anish 👋
 
-<!--
-**anishtallapureddy/anishtallapureddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager at Microsoft · Azure API Management & AI Gateway
 
-Here are some ideas to get you started:
+I build things at the intersection of AI infrastructure and developer platforms — governance layers, gateway proxies, tool catalogs, and the product thinking behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+🔧 **[anish-projects](https://github.com/anishtallapureddy/anish-projects)** — A monorepo with live prototypes and full PM documentation:
+
+- **[AI Gateway](https://github.com/anishtallapureddy/anish-projects/tree/main/ai/ai-gateway)** — Rate limiting, content safety, semantic caching, MCP tool routing for AI workloads
+- **[Cost Segregation](https://github.com/anishtallapureddy/anish-projects/tree/main/consumer/cost-segregation)** — IRS-compliant tax report generator for real estate investors
+- **[PM Portfolio](https://github.com/anishtallapureddy/anish-projects/tree/main/pm-portfolio)** — PRDs, decision logs, experiment results, and a 3-year platform vision
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishtallapureddy-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anishtallapureddy)
